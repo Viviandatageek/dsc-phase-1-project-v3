@@ -30,13 +30,13 @@ The dataset includes numerical and categorical variables such as:
 
 ### Visualizations
 #### 1. Injury Severity Distribution
-![Injury Severity](r"C:\Users\Vivian\Documents\New folder\AviationData.csv\visualization1.png")
+![Injury Severity](visualization1.png)
 
 #### 2. Number of Fatalities vs Make
-![Fatalities by Aircraft](r"C:\Users\Vivian\Documents\New folder\AviationData.csv\visualization2.png")
+![Fatalities by Aircraft](visualization2.png)
 
 #### 3. Outlier Detection in Injury Data
-![Outlier Analysis](r"C:\Users\Vivian\Documents\New folder\AviationData.csv\visualization3.png")
+![Outlier Analysis](visualization3.png)
 
 ## Conclusion
 ### Key Findings
